@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Hadi+Putra+👋;Cybersecurity+Student;Learning+Ethical+Hacking;Future+Cybersecurity+Specialist" />
+</p>
 
-<!--
-**hadiputraz/hadiputraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 Hadi Putra
 
-Here are some ideas to get you started:
+💻 Cybersecurity Student  
+🔐 Learning Ethical Hacking  
+🌏 From Malaysia  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+- Kali Linux
+- OSINT Tools
+- Networking Basics
+- HTML & CSS
